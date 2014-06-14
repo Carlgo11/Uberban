@@ -1,0 +1,7 @@
+main: com.carlgo11.uberban.Main
+name: uberban
+version: 0.1
+commands:
+  ban:
+    description: Ban users
+    usgage: /<command> (user) <time><m:h:d:w>
