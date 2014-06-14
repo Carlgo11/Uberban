@@ -1,0 +1,18 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                       Settings                       | #
+# +------------------------------------------------------+ #
+############################################################
+
+# Mysql username
+database-user: user
+
+# Password for the mysql user
+database-password: password1234
+# Please don't use that password ^ EVER
+
+# Database name
+database-name: uberban
+
+# Table that Uberban should operate in
+database-tabel: bans
